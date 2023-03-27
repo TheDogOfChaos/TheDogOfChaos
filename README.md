@@ -1,8 +1,3 @@
-const name="Becquerel";
-const mentalHealthStatus="Possible ADHD";
-const myTimezone=["GMT","UTC"];
-const gender="pineapple";
+i do not know who i am, i do not know why i am here
 
-while(true){
-     console.log("life is hell")
-}
+all i know is that i must `git commit`
