@@ -1,8 +1,3 @@
-i do not know who i am, i do not know why i am here
+# FUCK VENDOR LOCK-IN
 
-all i know is that i must `git commit -am "kill"`
-
----
-![thedogofchaos's Stats](https://github-readme-stats.vercel.app/api?username=thedogofchaos&theme=vue-dark&show_icons=true&hide_border=true&count_private=true&layout=compact)
-![thedogofchaos's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thedogofchaos&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-
+![37s2ajrv89x81](https://github.com/user-attachments/assets/8ce85482-40a0-438d-873d-55925dec516b)
